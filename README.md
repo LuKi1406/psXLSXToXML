@@ -1,1 +1,2 @@
 # psXLSXToXML
+-> manipulate to fit your needs, create files inside folder containing ps1 script, make xlsx file to fit your needs and bookmarks for your xml, replace variables with your bookmarks, add content to a script to fit your needs, and add paths before usage. txt files need to contain template of your xml file with bookmarks inside bookmarked piece of xml is data that will be inside *TAG txt file.
